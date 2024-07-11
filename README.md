@@ -1,6 +1,6 @@
 # Multiple Realm Providers with a shared Sync user example
 
-### NOTE: This is an example implementation of how one could use multiple Realm providers with shared sync, it includes only the frontend. This is based on Realm's official [MBnb example](https://github.com/realm/realm-js/tree/main/examples/rn-mbnb), refer to that for an up to date reference.
+### NOTE: This is an example implementation of how one could use multiple Realm providers with shared sync. This is based on Realm's official [MBnb example](https://github.com/realm/realm-js/tree/main/examples/rn-mbnb), refer to that for an up to date reference.
 
 A demo application showcasing how to use [MongoDB's Atlas Device SDK for React Native](https://www.mongodb.com/docs/realm/sdk/react-native/) in order to cache viewed collection items and view them offline. It uses [anonymous authentication](https://www.mongodb.com/docs/atlas/app-services/authentication/anonymous/) to create a session which allows the demo user to search for MBnB listings from the [Sample AirBnB Listings dataset](https://www.mongodb.com/docs/atlas/sample-data/sample-airbnb/).
 
